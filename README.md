@@ -72,6 +72,7 @@ The following list contains the amount of time that it took to complete each ava
 
 * Add support for adding the detailed information to the items.
 * Add support for updating the item information.
+* Figure out how to get accurate item prices as we currently lose precision on the prices like k, m, b,
 
 ## Licence
 
